@@ -6,7 +6,7 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/wilsongis/gis-data-grabber)](https://img.shields.io/github/commit-activity/m/wilsongis/gis-data-grabber)
 [![License](https://img.shields.io/github/license/wilsongis/gis-data-grabber)](https://img.shields.io/github/license/wilsongis/gis-data-grabber)
 
-Source code to grab rest data and insert into a postgresql db
+Source code to grab rest data and insert into a postgresql db, Using code from [Rest Downloader](https://github.com/APSU-GIS-Center/REST-Service-Downloader/tree/main)
 
 - **Github repository**: <https://github.com/wilsongis/gis-data-grabber/>
 - **Documentation** <https://wilsongis.github.io/gis-data-grabber/>
